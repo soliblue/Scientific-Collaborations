@@ -1,4 +1,5 @@
 00_Data
+nohup.out
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
