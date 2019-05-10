@@ -1,0 +1,497 @@
+[I 19:00:19.050 NotebookApp] JupyterLab extension loaded from /home/asol/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 19:00:19.050 NotebookApp] JupyterLab application directory is /home/asol/anaconda3/share/jupyter/lab
+[I 19:00:19.051 NotebookApp] Serving notebooks from local directory: /home/asol/collaborations
+[I 19:00:19.051 NotebookApp] The Jupyter Notebook is running at:
+[I 19:00:19.051 NotebookApp] http://localhost:8888/?token=3da3f392bea7c6b2509a485bcbd87735a57f8f5c2f1275d5
+[I 19:00:19.051 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:00:19.054 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/asol/.local/share/jupyter/runtime/nbserver-48334-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=3da3f392bea7c6b2509a485bcbd87735a57f8f5c2f1275d5
+Refresh (1 sec) http://localhost:8888/tree?token=
+3da3f392bea7c6b2509a485bcbd87735a57f8f5c2f1275d5
+
+This page should redirect you to Jupyter Notebook. If it doesn't, click here to
+go to Jupyter.
+
+[I 19:01:12.465 NotebookApp] 302 GET / (::1) 1.58ms
+[I 19:01:12.621 NotebookApp] 302 GET /tree? (::1) 2.32ms
+[I 19:01:21.556 NotebookApp] 302 POST /login?next=%2Ftree%3F (::1) 2.60ms
+[I 19:01:24.685 NotebookApp] Creating new notebook in 
+[I 19:01:25.520 NotebookApp] Kernel started: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:01:26.338 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 19:02:11.814 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:03:25.556 NotebookApp] Saving file at /playground.ipynb
+[I 19:05:25.535 NotebookApp] Saving file at /playground.ipynb
+[I 19:07:25.587 NotebookApp] Saving file at /playground.ipynb
+[I 19:09:25.490 NotebookApp] Saving file at /playground.ipynb
+[I 19:11:25.513 NotebookApp] Saving file at /playground.ipynb
+[I 19:13:25.488 NotebookApp] Saving file at /playground.ipynb
+[I 19:15:26.252 NotebookApp] Saving file at /playground.ipynb
+[I 19:17:25.497 NotebookApp] Saving file at /playground.ipynb
+[I 19:19:25.453 NotebookApp] Saving file at /playground.ipynb
+[I 19:21:25.444 NotebookApp] Saving file at /playground.ipynb
+[I 19:23:25.425 NotebookApp] Saving file at /playground.ipynb
+[I 19:25:25.423 NotebookApp] Saving file at /playground.ipynb
+[I 19:26:05.135 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:26:20.193 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:27:25.418 NotebookApp] Saving file at /playground.ipynb
+[I 19:29:25.580 NotebookApp] Saving file at /playground.ipynb
+[I 19:31:25.717 NotebookApp] Saving file at /playground.ipynb
+[I 19:35:25.505 NotebookApp] Saving file at /playground.ipynb
+[I 19:37:25.961 NotebookApp] Saving file at /playground.ipynb
+[I 19:39:00.396 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:39:25.897 NotebookApp] Saving file at /playground.ipynb
+[I 19:41:25.718 NotebookApp] Saving file at /playground.ipynb
+[I 19:43:26.148 NotebookApp] Saving file at /playground.ipynb
+[I 19:45:25.342 NotebookApp] Saving file at /playground.ipynb
+[I 19:47:25.355 NotebookApp] Saving file at /playground.ipynb
+[W 19:48:41.164 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 19:48:43.813 NotebookApp] iopub messages resumed
+[W 19:48:44.988 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 19:48:47.401 NotebookApp] iopub messages resumed
+[W 19:48:48.554 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 19:49:37.657 NotebookApp] Saving file at /playground.ipynb
+[I 19:53:29.005 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:53:33.874 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:53:43.010 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:53:58.255 NotebookApp] Saving file at /playground.ipynb
+[I 19:54:03.630 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:54:20.839 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:56:08.188 NotebookApp] Saving file at /playground.ipynb
+[W 19:56:24.568 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 19:56:25.194 NotebookApp] iopub messages resumed
+[I 19:56:26.900 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:56:31.033 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:57:29.541 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:57:40.014 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:58:35.222 NotebookApp] Saving file at /playground.ipynb
+[I 20:00:24.245 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:01:00.214 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:01:35.679 NotebookApp] Saving file at /playground.ipynb
+[I 20:02:25.096 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:02:36.524 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:02:36.780 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:03:19.445 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:04:03.183 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:04:25.988 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:04:35.851 NotebookApp] Saving file at /playground.ipynb
+[I 20:04:41.543 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 20:07:35.712 NotebookApp] Saving file at /playground.ipynb
+[I 20:10:35.808 NotebookApp] Saving file at /playground.ipynb
+[I 20:46:40.719 NotebookApp] Saving file at /playground.ipynb
+[I 20:49:40.381 NotebookApp] Saving file at /playground.ipynb
+[I 20:52:40.549 NotebookApp] Saving file at /playground.ipynb
+[I 20:55:40.920 NotebookApp] Saving file at /playground.ipynb
+[I 20:58:20.182 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:d384123646a94d5e92af3f854fea0bf9
+[I 20:58:47.604 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 20:58:52.456 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:100767801c6b4afaada02799a19b771b
+[I 20:59:08.353 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 21:07:07.127 NotebookApp] Saving file at /playground.ipynb
+[I 21:09:07.123 NotebookApp] Saving file at /playground.ipynb
+[I 21:11:04.867 NotebookApp] Saving file at /playground.ipynb
+[I 21:17:19.122 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 21:17:25.099 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 21:17:25.287 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 21:19:04.889 NotebookApp] Saving file at /playground.ipynb
+[I 21:22:58.950 NotebookApp] Saving file at /playground.ipynb
+[I 21:23:03.101 NotebookApp] Saving file at /playground.ipynb
+[I 21:25:05.751 NotebookApp] Saving file at /playground.ipynb
+[I 21:27:05.137 NotebookApp] Saving file at /playground.ipynb
+[I 21:35:04.740 NotebookApp] Saving file at /playground.ipynb
+[I 21:37:05.289 NotebookApp] Saving file at /playground.ipynb
+[I 21:39:04.666 NotebookApp] Saving file at /playground.ipynb
+[I 21:40:59.761 NotebookApp] Saving file at /playground.ipynb
+[I 21:42:59.712 NotebookApp] Saving file at /playground.ipynb
+[I 21:43:34.764 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 21:44:06.308 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 21:44:16.893 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[W 21:44:37.736 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:44:38.550 NotebookApp] iopub messages resumed
+[W 21:44:40.911 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:44:42.116 NotebookApp] iopub messages resumed
+[W 21:44:44.375 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:44:45.593 NotebookApp] iopub messages resumed
+[I 21:44:47.109 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 21:44:59.817 NotebookApp] Saving file at /playground.ipynb
+[W 21:45:33.752 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:45:34.349 NotebookApp] iopub messages resumed
+[W 21:45:41.050 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:45:41.559 NotebookApp] iopub messages resumed
+[W 21:45:45.782 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:45:46.309 NotebookApp] iopub messages resumed
+[W 21:45:49.258 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:45:49.876 NotebookApp] iopub messages resumed
+[W 21:45:52.796 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:45:53.416 NotebookApp] iopub messages resumed
+[W 21:45:56.323 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:45:56.948 NotebookApp] iopub messages resumed
+[W 21:45:59.877 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:46:00.444 NotebookApp] iopub messages resumed
+[I 21:46:01.568 NotebookApp] Saving file at /playground.ipynb
+[W 21:46:05.856 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:46:06.636 NotebookApp] iopub messages resumed
+[W 21:46:11.114 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:46:11.917 NotebookApp] iopub messages resumed
+[W 21:46:16.894 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:46:17.704 NotebookApp] iopub messages resumed
+[W 21:46:23.433 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:46:24.192 NotebookApp] iopub messages resumed
+[W 21:46:26.944 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:46:27.771 NotebookApp] iopub messages resumed
+[W 21:46:30.449 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 21:46:31.266 NotebookApp] iopub messages resumed
+[W 21:46:34.012 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 21:46:34.594 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 21:46:59.713 NotebookApp] Saving file at /playground.ipynb
+[I 21:48:59.688 NotebookApp] Saving file at /playground.ipynb
+[I 21:51:02.067 NotebookApp] Saving file at /playground.ipynb
+[I 21:53:18.402 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:e9005421eb054fec8c3ce63336fa1390
+[I 21:55:19.005 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 21:55:33.948 NotebookApp] Saving file at /playground.ipynb
+[I 21:57:19.980 NotebookApp] Saving file at /playground.ipynb
+[I 21:57:55.977 NotebookApp] Saving file at /playground.ipynb
+[I 21:59:20.075 NotebookApp] Saving file at /playground.ipynb
+[I 22:01:30.159 NotebookApp] Saving file at /playground.ipynb
+[I 22:09:30.706 NotebookApp] Saving file at /playground.ipynb
+[I 22:11:53.106 NotebookApp] Saving file at /playground.ipynb
+[I 22:14:02.881 NotebookApp] Saving file at /playground.ipynb
+[I 22:16:12.357 NotebookApp] Saving file at /playground.ipynb
+[I 22:18:23.522 NotebookApp] Saving file at /playground.ipynb
+[I 22:20:43.707 NotebookApp] Saving file at /playground.ipynb
+[I 22:25:03.482 NotebookApp] Saving file at /playground.ipynb
+[W 22:29:19.010 NotebookApp] WebSocket ping timeout after 119973 ms.
+[I 22:29:24.014 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:9fb26412aa9840fdae59183d80cb037c
+[I 07:15:09.507 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[W 07:19:09.511 NotebookApp] WebSocket ping timeout after 119973 ms.
+[I 07:19:14.515 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:09d0ddb98bb842cb86e909db93b9b2ec
+[I 08:41:09.750 NotebookApp] 302 GET / (::1) 1.82ms
+[W 08:41:09.761 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 08:41:09.762 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[I 08:41:09.763 NotebookApp] 302 GET /tree? (::1) 3.10ms
+[I 08:41:28.525 NotebookApp] 302 POST /login?next=%2Ftree%3F (::1) 2.12ms
+[I 08:41:33.226 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 08:43:54.193 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:e989dfacaa8d4ad784ffbae1aa46e520
+[I 08:43:54.885 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 08:45:56.349 NotebookApp] Saving file at /playground.ipynb
+[I 08:47:56.319 NotebookApp] Saving file at /playground.ipynb
+[I 08:49:56.302 NotebookApp] Saving file at /playground.ipynb
+[I 08:51:56.270 NotebookApp] Saving file at /playground.ipynb
+[I 08:53:56.286 NotebookApp] Saving file at /playground.ipynb
+[I 08:55:56.276 NotebookApp] Saving file at /playground.ipynb
+[I 09:03:56.253 NotebookApp] Saving file at /playground.ipynb
+[I 09:05:56.000 NotebookApp] Saving file at /playground.ipynb
+[I 09:07:56.663 NotebookApp] Saving file at /playground.ipynb
+[W 09:11:24.889 NotebookApp] WebSocket ping timeout after 119934 ms.
+[I 09:11:29.892 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:ca836628d43747238e77a188f2e9eb6a
+[I 12:28:24.138 NotebookApp] 302 GET / (::1) 1.16ms
+[I 12:28:33.086 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 12:33:04.580 NotebookApp] Saving file at /playground.ipynb
+[I 12:37:39.421 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 12:38:57.163 NotebookApp] Saving file at /playground.ipynb
+[I 12:44:25.409 NotebookApp] Saving file at /playground.ipynb
+[I 12:45:49.948 NotebookApp] Creating new notebook in 
+[I 12:45:51.011 NotebookApp] Kernel started: b4417c67-e23f-4a7c-919b-741c07105bb5
+[I 12:45:51.394 NotebookApp] Adapting to protocol v5.1 for kernel b4417c67-e23f-4a7c-919b-741c07105bb5
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 12:47:51.072 NotebookApp] Saving file at /PreProcessing.ipynb
+[I 12:49:43.161 NotebookApp] Saving file at /playground.ipynb
+[I 12:49:51.021 NotebookApp] Saving file at /PreProcessing.ipynb
+[I 12:51:07.023 NotebookApp] Saving file at /PreProcessing.ipynb
+[W 12:59:51.399 NotebookApp] WebSocket ping timeout after 119973 ms.
+[I 12:59:56.402 NotebookApp] Starting buffering for b4417c67-e23f-4a7c-919b-741c07105bb5:3086b7a76f5249c89fd461971f729e16
+[W 13:00:03.088 NotebookApp] WebSocket ping timeout after 119965 ms.
+[I 13:00:08.091 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:4a56ce3228a54df0978dd56244adda20
+[I 13:11:34.362 NotebookApp] Saving file at /playground.ipynb
+[I 13:11:36.258 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 13:11:49.170 NotebookApp] Adapting to protocol v5.1 for kernel b4417c67-e23f-4a7c-919b-741c07105bb5
+[I 13:11:49.172 NotebookApp] Restoring connection for b4417c67-e23f-4a7c-919b-741c07105bb5:3086b7a76f5249c89fd461971f729e16
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 13:11:52.113 NotebookApp] Starting buffering for b4417c67-e23f-4a7c-919b-741c07105bb5:3086b7a76f5249c89fd461971f729e16
+[I 13:11:52.171 NotebookApp] Adapting to protocol v5.1 for kernel b4417c67-e23f-4a7c-919b-741c07105bb5
+[I 13:11:52.172 NotebookApp] Restoring connection for b4417c67-e23f-4a7c-919b-741c07105bb5:3086b7a76f5249c89fd461971f729e16
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 13:11:56.222 NotebookApp] Saving file at /PreProcessing.ipynb
+[I 13:13:41.814 NotebookApp] Saving file at /playground.ipynb
+[I 13:17:42.116 NotebookApp] Saving file at /playground.ipynb
+[I 13:19:47.273 NotebookApp] Saving file at /playground.ipynb
+[I 13:21:41.710 NotebookApp] Saving file at /playground.ipynb
+[I 13:23:42.633 NotebookApp] Saving file at /playground.ipynb
+[I 13:25:44.167 NotebookApp] Saving file at /playground.ipynb
+[I 13:27:41.621 NotebookApp] Saving file at /playground.ipynb
+[I 13:29:41.818 NotebookApp] Saving file at /playground.ipynb
+[I 13:34:16.858 NotebookApp] Kernel interrupted: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 13:35:41.084 NotebookApp] Saving file at /playground.ipynb
+[I 13:37:41.217 NotebookApp] Saving file at /playground.ipynb
+[I 13:39:41.049 NotebookApp] Saving file at /playground.ipynb
+[I 13:41:41.310 NotebookApp] Saving file at /playground.ipynb
+[I 13:43:40.941 NotebookApp] Saving file at /playground.ipynb
+[I 13:45:41.021 NotebookApp] Saving file at /playground.ipynb
+[I 13:50:03.188 NotebookApp] Starting buffering for b4417c67-e23f-4a7c-919b-741c07105bb5:3086b7a76f5249c89fd461971f729e16
+[I 13:50:03.189 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:372d87cfb019419fa4aec8299218709b
+[I 13:52:07.209 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 13:52:07.211 NotebookApp] Restoring connection for 32dca3db-c8f3-4643-a171-470a40f80a2d:372d87cfb019419fa4aec8299218709b
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 13:52:10.630 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:372d87cfb019419fa4aec8299218709b
+[I 13:52:10.750 NotebookApp] Adapting to protocol v5.1 for kernel 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 13:52:10.751 NotebookApp] Restoring connection for 32dca3db-c8f3-4643-a171-470a40f80a2d:372d87cfb019419fa4aec8299218709b
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[I 13:52:16.896 NotebookApp] Adapting to protocol v5.1 for kernel b4417c67-e23f-4a7c-919b-741c07105bb5
+[I 13:52:16.897 NotebookApp] Restoring connection for b4417c67-e23f-4a7c-919b-741c07105bb5:3086b7a76f5249c89fd461971f729e16
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[W 13:55:10.752 NotebookApp] WebSocket ping timeout after 119686 ms.
+[I 13:55:15.755 NotebookApp] Starting buffering for 32dca3db-c8f3-4643-a171-470a40f80a2d:372d87cfb019419fa4aec8299218709b
+[W 13:55:16.899 NotebookApp] WebSocket ping timeout after 119805 ms.
+[I 13:55:21.902 NotebookApp] Starting buffering for b4417c67-e23f-4a7c-919b-741c07105bb5:3086b7a76f5249c89fd461971f729e16
+[I 19:13:07.607 NotebookApp] 302 GET / (::1) 2.24ms
+[W 19:13:07.744 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 19:13:07.745 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[I 19:13:07.746 NotebookApp] 302 GET /tree? (::1) 3.48ms
+[I 19:13:29.867 NotebookApp] Shutting down on /api/shutdown request.
+[I 19:13:29.868 NotebookApp] Shutting down 2 kernels
+[I 19:13:36.217 NotebookApp] Kernel shutdown: 32dca3db-c8f3-4643-a171-470a40f80a2d
+[I 19:13:36.218 NotebookApp] Kernel shutdown: b4417c67-e23f-4a7c-919b-741c07105bb5
+[I 10:27:03.382 NotebookApp] JupyterLab extension loaded from /home/asol/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 10:27:03.382 NotebookApp] JupyterLab application directory is /home/asol/anaconda3/share/jupyter/lab
+[I 10:27:03.383 NotebookApp] Serving notebooks from local directory: /home/asol/collaborations
+[I 10:27:03.383 NotebookApp] The Jupyter Notebook is running at:
+[I 10:27:03.383 NotebookApp] http://localhost:8888/?token=cd791d2ff0a38b449dc67404bd9a5d4c9c984e8260a46abb
+[I 10:27:03.383 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:27:03.386 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/asol/.local/share/jupyter/runtime/nbserver-9682-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=cd791d2ff0a38b449dc67404bd9a5d4c9c984e8260a46abb
+Refresh (1 sec) http://localhost:8888/tree?token=
+cd791d2ff0a38b449dc67404bd9a5d4c9c984e8260a46abb
+
+This page should redirect you to Jupyter Notebook. If it doesn't, click here to
+go to Jupyter.
+
+[W 10:27:49.033 NotebookApp] 404 GET /api/kernels/fb665d96-512b-4bfc-b1cc-8531cc419cd3/channels?session_id=0377f95efc4347178e11d6b597586d18 (::1): Kernel does not exist: fb665d96-512b-4bfc-b1cc-8531cc419cd3
+[W 10:27:49.057 NotebookApp] 404 GET /api/kernels/fb665d96-512b-4bfc-b1cc-8531cc419cd3/channels?session_id=0377f95efc4347178e11d6b597586d18 (::1) 40.21ms referer=None
+[W 10:27:49.983 NotebookApp] 404 GET /api/kernels/a8a951be-d3a0-46ca-ab88-e42a91cb478b/channels?session_id=1b994e71dfe04cc58a5e1520b0a60741 (::1): Kernel does not exist: a8a951be-d3a0-46ca-ab88-e42a91cb478b
+[W 10:27:49.985 NotebookApp] 404 GET /api/kernels/a8a951be-d3a0-46ca-ab88-e42a91cb478b/channels?session_id=1b994e71dfe04cc58a5e1520b0a60741 (::1) 4.97ms referer=None
+[I 10:27:52.838 NotebookApp] Kernel started: 24e76af8-eaf0-41b5-adfd-b298b5f1144f
+[I 10:27:53.248 NotebookApp] Adapting to protocol v5.1 for kernel 24e76af8-eaf0-41b5-adfd-b298b5f1144f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[W 10:28:07.013 NotebookApp] Replacing stale connection: a8a951be-d3a0-46ca-ab88-e42a91cb478b:1b994e71dfe04cc58a5e1520b0a60741
+[I 10:29:53.440 NotebookApp] Saving file at /Exploration.ipynb
+[W 10:32:39.279 NotebookApp] Replacing stale connection: a8a951be-d3a0-46ca-ab88-e42a91cb478b:1b994e71dfe04cc58a5e1520b0a60741
+[W 10:37:23.252 NotebookApp] WebSocket ping timeout after 119906 ms.
+[I 10:37:28.256 NotebookApp] Starting buffering for 24e76af8-eaf0-41b5-adfd-b298b5f1144f:02f79907aa214c2680048a7ac70ea488
+[I 12:01:19.660 NotebookApp] 302 GET / (::1) 2.31ms
+[I 07:24:35.496 NotebookApp] Shutting down on /api/shutdown request.
+[I 07:24:35.498 NotebookApp] Shutting down 1 kernel
+[I 07:24:41.535 NotebookApp] Kernel shutdown: 24e76af8-eaf0-41b5-adfd-b298b5f1144f
